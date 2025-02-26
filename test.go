@@ -17,3 +17,5 @@ type test struct{}
 // Document 6
 
 // Document 7
+
+// Document 9
