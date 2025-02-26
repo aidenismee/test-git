@@ -9,3 +9,5 @@ type test struct{}
 // Document 2
 
 // Document 3
+
+// Document 4
